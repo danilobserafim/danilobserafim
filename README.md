@@ -1,13 +1,4 @@
-### Olá eu sou o Danilo Serafim
-
-
-
-  Gosto de filmes e séries geek e amo musica ♥ <br>
-                Sou do tempo da MTV e assistí HE-MAN na tv HAHA<br>
-                um adolecente normal da decada de 90<br>
-                    Mas quando conheci os video-games... Haaa os games<br>
-                    minha curiosidade focou como intuitivamente sobre esses facinantes<br> mundos e personagens que podem ser desenvolvidos<br>
-                    através de uma tela e alguns botões(O que mais poderia ser feito alem disso?).
+### Olá eu sou o Danilo Serafim [![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilobserafim/)
 
   <a href="https://github.com/danilobserafim">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobserafim&layout=compact&langs_count=7&theme=dark"/>
@@ -22,5 +13,6 @@
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='REACT'/>
   <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='REACT NATIVE'/>
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='NODE.JS'/>
+  <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MYSQL'/>
   
 </div>
