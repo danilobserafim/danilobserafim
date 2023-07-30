@@ -3,8 +3,8 @@
 
   <div align="center">
   <a href="https://github.com/danilobserafim">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=biassumcao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biassumcao&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danilobserafim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobserafim&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 ### Tecnologias que utilizo
 
