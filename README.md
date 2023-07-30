@@ -1,10 +1,11 @@
 ### Olá, eu sou o Danilo Serafim!
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilobserafim/)
 
+  <div align="center">
   <a href="https://github.com/danilobserafim">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobserafim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobserafim&layout=compact&langs_count=7&theme=dark"/><br>
-  </a>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=biassumcao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biassumcao&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 ### Tecnologias que utilizo
 
 <div>
