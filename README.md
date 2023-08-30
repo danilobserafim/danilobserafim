@@ -5,9 +5,9 @@
 
   <div>
   <a href="https://github.com/danilobserafim">
-    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=danilobserafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img  width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobserafim&layout=compact&langs_count=7&theme=dracula"/>
-    <img width="100%" src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF"/>
+    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=danilobserafim&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+    <img  width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobserafim&layout=compact&langs_count=7&theme=shadow_blue"/>
+    <img width="100%" src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=shadow_blue&background=000&border=30A3DC&dates=FFF"/>
 
   </a>
 </div>
